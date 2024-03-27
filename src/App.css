@@ -1,4 +1,24 @@
-.App {
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(162, 45, 188);
+  font-weight: 2000px;
+}
+
+.App-header {
+  background-color: #E9E3E6;
+  min-height: 100vh;
+  align-items: left;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} 
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +55,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
